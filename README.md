@@ -3,7 +3,7 @@ Hi, I'm Rafaela
 
 ### About Me
 
-- Hi, I'm 21 years old and I am currently a student of Systems Analysis and Development. I really like Front-end and Design.
+- I'm Rafaela Oliveira, I'm 21 years old and I am currently a student of Systems Analysis and Development. I really like Front-end and Design.
 
 - 🏠 I'm living in Franca-SP in Brazil. 
 
