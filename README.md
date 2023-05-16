@@ -30,6 +30,10 @@
     *   ### <b> Libraries and Frameworks </b>
         -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
 
+-   ### <b> Mobile: </b>
+
+    -   <code><img height="25" src="https://img.shields.io/badge/React Native-000000?style=flat&logo=React" alt="React Native"/></code>
+
 -   ### <b> Tools: </b>
     -   <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
